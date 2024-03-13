@@ -1,0 +1,15 @@
+C:\Users\skola\source\repos\WpfAppsonja\WpfAppsonja\bin\Debug\WpfAppsonja.exe.config
+C:\Users\skola\source\repos\WpfAppsonja\WpfAppsonja\bin\Debug\WpfAppsonja.exe
+C:\Users\skola\source\repos\WpfAppsonja\WpfAppsonja\bin\Debug\WpfAppsonja.pdb
+C:\Users\skola\source\repos\WpfAppsonja\WpfAppsonja\obj\Debug\WpfAppsonja.csproj.AssemblyReference.cache
+C:\Users\skola\source\repos\WpfAppsonja\WpfAppsonja\obj\Debug\MainWindow.g.cs
+C:\Users\skola\source\repos\WpfAppsonja\WpfAppsonja\obj\Debug\App.g.cs
+C:\Users\skola\source\repos\WpfAppsonja\WpfAppsonja\obj\Debug\WpfAppsonja_MarkupCompile.cache
+C:\Users\skola\source\repos\WpfAppsonja\WpfAppsonja\obj\Debug\WpfAppsonja_MarkupCompile.lref
+C:\Users\skola\source\repos\WpfAppsonja\WpfAppsonja\obj\Debug\MainWindow.baml
+C:\Users\skola\source\repos\WpfAppsonja\WpfAppsonja\obj\Debug\WpfAppsonja.g.resources
+C:\Users\skola\source\repos\WpfAppsonja\WpfAppsonja\obj\Debug\WpfAppsonja.Properties.Resources.resources
+C:\Users\skola\source\repos\WpfAppsonja\WpfAppsonja\obj\Debug\WpfAppsonja.csproj.GenerateResource.cache
+C:\Users\skola\source\repos\WpfAppsonja\WpfAppsonja\obj\Debug\WpfAppsonja.csproj.CoreCompileInputs.cache
+C:\Users\skola\source\repos\WpfAppsonja\WpfAppsonja\obj\Debug\WpfAppsonja.exe
+C:\Users\skola\source\repos\WpfAppsonja\WpfAppsonja\obj\Debug\WpfAppsonja.pdb
